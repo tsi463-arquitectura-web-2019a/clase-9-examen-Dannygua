@@ -1,0 +1,155 @@
+
+body{
+    background-color: whitesmoke;
+}
+
+.container{
+
+    padding: 0px;
+    box-shadow: 15px 15px rgb(216, 214, 214);
+}
+
+
+.contenedor1 {
+
+    background-color: white;
+}
+
+.contenedor2 {
+
+    background-color: rgb(58, 57, 57);
+}
+.contenedor3 {
+
+    background-color: white;
+
+
+}
+
+
+.contenedor4 {
+
+    background-color: rgb(219, 101, 80);
+
+}
+
+.contenedor4 h1 , .contenedor4 p{
+
+    background-color: rgb(219, 101, 80);
+    color: white;
+
+}
+
+p {
+    font-size: 10px;
+    color: gray;
+    margin-bottom: 25px;
+    text-align: justify;
+
+
+}
+
+
+h1{
+    margin-bottom: 25px;
+    color: gray;
+}
+
+
+
+h2{
+    margin-bottom: 25px;
+    color: white;
+    font-size: 20px;
+}
+
+.contenedor1 h2{
+    color: gray;
+}
+
+.contenedor1 img{
+    width: 100%;
+}
+
+
+.card{
+    border: 0px white;
+}
+
+.btn{
+
+    background: white;
+    border: 1px solid gray;
+    color: gray;
+    border-radius: 50%;
+    margin:5px;
+    font-size: 20px;
+    padding: 10px 10px;
+    font-weight: bold;
+    
+}
+
+.contenedor5 .navbar-brand{
+
+    color: gray;
+    
+}
+
+.navbar .btn{
+
+    padding: 10px 20px;
+    border: 1px solid gray;
+    background: none;
+
+    
+}
+
+
+
+
+.C1 {
+    font-size: 20px;
+}
+.contenedor2 img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.contenedor2 .navbar li{
+
+    border: 1px solid gray;
+    margin-right: 10px;
+    border-radius: 10px;
+
+}
+.contenedor4 img{
+
+    width: 10px;
+    height: 10px;
+
+}
+
+
+ 
+.contenedor4 input {
+    background-color: rgb(168, 77, 61);
+    border: 0px; 
+
+}
+.contenedor4 textarea{
+    background-color: rgb(168, 77, 61);
+    border: 0px; 
+
+}
+
+.contenedor5 img {
+    width: 20px;
+}
+
+.contenedor1 .l1{
+
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 10px;
+
+} 
